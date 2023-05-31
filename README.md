@@ -1,5 +1,5 @@
 # CS50 Mail
-#### Video Demo:  <https://youtu.be/Zb_FLCk9KZE>
+
 #### Description:
 
 CS50 Mail is a web application that allows users to send and receive email messages.
